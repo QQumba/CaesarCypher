@@ -1,0 +1,15 @@
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.exe
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.deps.json
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.runtimeconfig.json
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.runtimeconfig.dev.json
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.dll
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\bin\Debug\netcoreapp3.1-windows\CaesarCypher.UI.pdb
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.csprojAssemblyReference.cache
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.AssemblyInfoInputs.cache
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.AssemblyInfo.cs
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.csproj.CoreCompileInputs.cache
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.dll
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.pdb
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.genruntimeconfig.cache
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.Form1.resources
+C:\study\4\bptd\pz\CaesarCypher\CaesarCypher.UI\obj\Debug\netcoreapp3.1-windows\CaesarCypher.UI.csproj.GenerateResource.cache
