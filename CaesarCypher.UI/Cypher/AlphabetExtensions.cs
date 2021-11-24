@@ -2,7 +2,7 @@
 {
     public static class AlphabetExtensions
     {
-        public static int ClampIndex(this Alphabet alphabet, int index)
+        public static int ClampIndex(this IAlphabet alphabet, int index)
         {
             if (index < 0)
             {

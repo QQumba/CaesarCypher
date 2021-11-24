@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace CaesarCypher.UI.Cypher
 {
-    public class Alphabet
+    public class Alphabet : IAlphabet
     {
         private readonly char[] _normal;
         private readonly char[] _encrypted;
